@@ -11,6 +11,7 @@ results/*.json
 
 figures/*.png
 figures/*.jpg
+figures/*.jpeg
 figures/*.pdf
 
 .env
