@@ -1,1 +1,16 @@
 
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+Dataset/MGTAB/*.pt
+
+results/*.csv
+results/*.json
+
+figures/*.png
+figures/*.jpg
+figures/*.pdf
+
+.env
